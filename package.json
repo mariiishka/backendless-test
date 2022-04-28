@@ -1,5 +1,6 @@
 {
   "name": "backendless-test",
+  "homepage": "https://github.com/mariiishka/backendless-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
