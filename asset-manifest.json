@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/backendless-test/static/css/main.073c9b0a.css",
-    "main.js": "/backendless-test/static/js/main.cecf38a4.js",
-    "static/js/787.60396556.chunk.js": "/backendless-test/static/js/787.60396556.chunk.js",
-    "static/media/logo.svg": "/backendless-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/backendless-test/static/css/main.0296928f.css",
+    "main.js": "/backendless-test/static/js/main.f46b4940.js",
+    "static/media/SFUIText-Regular.ttf": "/backendless-test/static/media/SFUIText-Regular.44da36462f52dd1140b3.ttf",
+    "static/media/SFUIDisplay-Semibold.ttf": "/backendless-test/static/media/SFUIDisplay-Semibold.43c109ed2dc4a0c099b3.ttf",
     "index.html": "/backendless-test/index.html",
-    "main.073c9b0a.css.map": "/backendless-test/static/css/main.073c9b0a.css.map",
-    "main.cecf38a4.js.map": "/backendless-test/static/js/main.cecf38a4.js.map",
-    "787.60396556.chunk.js.map": "/backendless-test/static/js/787.60396556.chunk.js.map"
+    "main.0296928f.css.map": "/backendless-test/static/css/main.0296928f.css.map",
+    "main.f46b4940.js.map": "/backendless-test/static/js/main.f46b4940.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cecf38a4.js"
+    "static/css/main.0296928f.css",
+    "static/js/main.f46b4940.js"
   ]
 }
